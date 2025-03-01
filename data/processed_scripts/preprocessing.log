@@ -1,0 +1,22 @@
+2024-10-21 17:13:54,255 - INFO - Starting script preprocessing
+2024-10-21 17:13:54,269 - INFO - Loaded 12 genre mappings
+2024-10-21 17:13:54,270 - INFO - Starting preprocessing of 12 scripts
+2024-10-21 17:13:54,343 - INFO - Successfully processed 9
+2024-10-21 17:13:54,379 - INFO - Successfully processed 10 Things I Hate About You
+2024-10-21 17:13:54,419 - INFO - Successfully processed 8MM
+2024-10-21 17:13:54,420 - INFO - Successfully processed 12 and Holding
+2024-10-21 17:13:54,455 - INFO - Successfully processed 12 Monkeys
+2024-10-21 17:13:54,500 - INFO - Successfully processed 12 Years a Slave
+2024-10-21 17:13:54,514 - INFO - Successfully processed 17 Again
+2024-10-21 17:13:54,517 - INFO - Successfully processed 20th Century Women
+2024-10-21 17:13:54,540 - INFO - Successfully processed 15 Minutes
+2024-10-21 17:13:54,550 - INFO - Successfully processed 22 July
+2024-10-21 17:13:54,576 - INFO - Successfully processed 28 Days Later
+2024-10-21 17:13:54,581 - INFO - Successfully processed 30 Minutes or Less
+2024-10-21 17:13:54,590 - INFO - Validating preprocessed scripts...
+2024-10-21 17:13:54,604 - WARNING - Invalid format in 12 Monkeys.txt
+2024-10-21 17:13:54,607 - WARNING - Invalid format in 12 Years a Slave.txt
+2024-10-21 17:13:54,633 - WARNING - Invalid format in 22 July.txt
+2024-10-21 17:13:54,638 - WARNING - Invalid format in 30 Minutes or Less.txt
+2024-10-21 17:13:54,638 - INFO - Validation complete: 8/12 files valid
+2024-10-21 17:13:54,638 - INFO - Preprocessing completed successfully
